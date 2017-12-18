@@ -1,0 +1,5 @@
+nn: 1
+rr: 0
+idalia: 33
+univo: 6
+ivan: 32
